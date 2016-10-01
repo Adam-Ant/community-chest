@@ -53,7 +53,8 @@
       "options.txt",
       "optionsshaders.txt",
       "journeymap/*",
-      "options/chiselandbits_clipboard.cfg"
+      "options/chiselandbits_clipboard.cfg",
+      "config/BetterAchievements/*.dat"
     ],
     "exclude" : [ ]
   },
