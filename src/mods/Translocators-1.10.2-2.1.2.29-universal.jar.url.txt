@@ -1,0 +1,1 @@
+http://chickenbones.net/maven/codechicken/Translocators/1.10.2-2.1.2.29/Translocators-1.10.2-2.1.2.29-universal.jar

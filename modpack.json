@@ -1,0 +1,65 @@
+{
+  "name" : "Community Chest",
+  "title" : "Community Chest - CwG Autumn '16",
+  "gameVersion" : "1.10.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Inventory Tweaks",
+        "description" : "Inventory sorting and management.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "config/InvTweaks.cfg",
+          "mods/InventoryTweaks*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "JourneyMap",
+        "description" : "A minimap to show the terrain around you",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/journeymap*.jar",
+          "config/journeymap*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "OptiFine",
+        "description" : "Shaders and redering optimizations.",
+        "recommendation" : "avoid",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/OptiFine_1.10.2*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "journeymap/*",
+      "options/chiselandbits_clipboard.cfg"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true -Xmx 12G"
+    ]
+  }
+}
