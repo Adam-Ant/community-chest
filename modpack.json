@@ -37,12 +37,27 @@
       "properties" : {
         "name" : "OptiFine",
         "description" : "Shaders and redering optimizations.",
-        "recommendation" : "avoid",
+        "recommendation" : null,
         "selected" : false
       },
       "files" : {
         "include" : [
           "mods/OptiFine_1.10.2*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Screenshot Uploader",
+        "description" : "Automatically upload your screenshots to imgur! Please bind a key for this feature in your options.",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/ScreenshotUploader*.jar",
+          "config/ScreenshotUploader.cfg"
         ],
         "exclude" : [ ]
       }

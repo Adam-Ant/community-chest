@@ -6,6 +6,11 @@ This modpack has been designed with the [SkCraft launcher](https://github.com/SK
 ## Changelog
 
 
+### V1.1.2
+* Rolled back Malisis Core and Doors, to fix a crash bug.
+* Re-Added NetherPortal fix, it wasn't responsible for the bug we thought it was!
+* Added imgur screenshot as an optional clientside plugin.
+
 ### V1.1.1:
 * Updated Actually Additions
 
