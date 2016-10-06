@@ -6,6 +6,20 @@ This modpack has been designed with the [SkCraft launcher](https://github.com/SK
 ## Changelog
 
 
+### V1.2
+* Re-removed NetherPortalFix
+  * Got there eventually, NetherPortalFix does NOT fix things :)
+* JEI Resources is now clientside only
+* Tweaked Mekanism to make it less brutal
+  * Doubled Hydrogen energy density - halfs power consumption.
+  * Re-disabled the Digital Miner
+* Disabled Baby Skeletons from TCon and Mekanism
+* Updated Botania
+ * *Again*
+* Updated Actually Additions
+* Updated Psi
+
+
 ### V1.1.2
 * Rolled back Malisis Core and Doors, to fix a crash bug.
 * Re-Added NetherPortal fix, it wasn't responsible for the bug we thought it was!
