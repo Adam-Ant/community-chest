@@ -5,6 +5,35 @@ This modpack has been designed with the [SkCraft launcher](https://github.com/SK
 
 ## Changelog
 
+### V1.3
+* Added Railcraft (Woooo!)
+  * Disabled WorldGen
+* Added Spikes
+* Added MultiStorage
+  * Disabled EnderLink chests
+  * Disabled all bags
+* Added Quantum Storage
+* Added TinkersAddons
+* Added Useful Nullifiers
+* Updated Botania
+  * *Again Again*
+* Updated Chisel and Bits
+* Updated Cooking for Blockheads
+* Updated EnderIO
+* Updated Enderthing
+* Updated Forestry
+* Updated FTB Utilities
+* Updated FTBLib
+* Updated Immersive Engineering
+* Updated Just Enough Calculation
+* Updated JEFB
+* Updated JEI
+* Updated McJtyLib
+* Updated Morph-O-Tool
+* Updated Morpheus
+* Updated RFTools
+* Updated RFTools Control
+* Updated ShadowMC
 
 ### V1.2
 * Re-removed NetherPortalFix
